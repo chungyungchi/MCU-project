@@ -9,10 +9,19 @@ tags: [jekyll, ai]
 
 
 ---
-### 影片連結
-<iframe width="885" height="498" src="https://www.youtube.com/embed/v7bnOxV4jAc?list=RDv7bnOxV4jAc" title="[MV] IU(아이유)_LILAC(라일락)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 安全氣囊系統
+### 應用功能說明
+1. 安全取向：車輛受大量外力衝撞時可產生氣囊防護駕駛
 
-### 我愛IU
-![](https://github.com/chungyungchi/MCU-project/blob/main/images/korean-iu.jpg?raw=true)
+### 設計考量與相關技術
+**系統設計考量：**<br>
+1. 感應方式: O2傳感器、水溫傳感器、節氣門位置傳感器、加速器傳感器、爆震傳感器
+
+**所需相關技術：**
+1. 安裝實現了高性能、低功耗、低噪音的車載系統用 CAN 通信控制器32 位微控制器
+
+### 系統方塊圖
+![]("C:\Users\a2107\OneDrive\桌面\螢幕擷取畫面 2023-02-23 235417.jpg")
+
 
 ---
