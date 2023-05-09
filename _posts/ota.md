@@ -1,1 +1,7 @@
-
+---
+layout: post
+title: OTA
+author: [Richard Kuo]
+category: [Lecture]
+tags: [jekyll, ai]
+---
