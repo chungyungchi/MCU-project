@@ -1,6 +1,6 @@
 ---
 layout: post
-title: webserver
+title: ESP32 IoT webserver & client
 author: [chungyungchi]
 category: [Lecture]
 tags: [jekyll, ai]
