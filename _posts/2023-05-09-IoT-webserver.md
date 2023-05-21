@@ -1,6 +1,6 @@
 ---
 layout: post
-title:ESP32webserver
+title:webserver
 author: [chungyungchi]
 category: [Lecture]
 tags: [jekyll, ai]
