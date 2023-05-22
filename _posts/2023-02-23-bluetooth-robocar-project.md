@@ -31,9 +31,6 @@ This project is to implement a bluetooth remote controlled robotcar.
 **所需相關套件:**
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
-### 系統方塊圖
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/WebUI_car.jpg?raw=true)
-### 程式
 ```
 // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
 // ESP32 Webserver to receive commands to control RoboCar
