@@ -354,4 +354,6 @@ void LimitFloat(float *x,float Min, float Max)
 
 }//END LimitInt
 ```
-![](https://github.com/chungyungchi/MCU-project/blob/main/images/pidcar.png?raw=true)
+![](https://github.com/chungyungchi/MCU-project/blob/main/images/pidcar.png?raw=true)<br>
+![](https://github.com/chungyungchi/MCU-project/blob/main/images/pidcar1.gif?raw=true)<br>
+![](https://github.com/chungyungchi/MCU-project/blob/main/images/pidcar2.gif?raw=true)<br>
