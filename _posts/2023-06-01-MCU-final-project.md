@@ -5,7 +5,29 @@ author: [chungyungchi]
 category: [Lecture]
 tags: [IMU]
 ---
-##PID小車
+## PID小車
+![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
+
+
+### 應用功能說明
+1. WIFI remote control App 
+2. two-wheel robocar
+
+
+
+### 設計考量與相關技術
+**系統設計考量：**<br>
+1. 操作方式:熱點遙控手機App
+2. 移動方式:兩輪 
+3. 供電方式:鋰電池 3.7V x2
+4. 聯網方式:熱點
+
+**所需相關技術：**
+1. Arduino IDE 2.1.0
+2. Arduino程式設計
+
+**所需相關套件:**
+![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 ```
 //
 // RoboCar with MPU6050 using PID control for going straight line
